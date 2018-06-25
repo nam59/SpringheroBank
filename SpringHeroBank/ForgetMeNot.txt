@@ -1,0 +1,10 @@
+ANumber|Uname|EncName|Bal|Sal|Sta
+8174c74f-722d-4484-ad10-c2e775572a03|puid34A|haKoNa|50000000|nhcgoD|1
+d98a1469-2602-4e2e-a527-f0bb55c64890|MftGcxS|nunVg|20000000|aTaoN|1
+3d52125e-d70e-4671-8697-d7106d79ba3f|LjgByfR|hicDeuN|30000000|nMunyg|1
+ef065324-6f0f-4dfb-a957-31d525066bfb|PyjabcH|guhaTeuN|10000000|nTnhnyg|1
+d98a1469-2602-4e2e-a527-f0bb55c64890|ybcdFnX|hAnuga|60000000|ngaQnD|1
+56ee353e-2688-495d-83f8-3c9d83ec44ac|LmhfawD|thnVeuN|70000000|aNanyg|1
+0fc6fefa-5d83-4b78-a7fc-5f1a9518e49a|NfYjHGB|ohuTeuN|0|aThnyg|1
+8b002de6-b50d-4a1e-a98b-d710de154f4a|lPuhFcV|aTagoVn|51000000|riMnugU|1
+0f6c3ce3-42ab-453f-8a48-36b2b5fa78f6|qEwsDgT|14gunu|700000000|02nhax|1
